@@ -231,7 +231,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>90e6</value>
+      <value>89.5e6</value>
     </param>
   </block>
   <block>
@@ -345,7 +345,7 @@
     </param>
     <param>
       <key>num_steps</key>
-      <value>1000</value>
+      <value>int(samp_rate / 1e4)</value>
     </param>
     <param>
       <key>style</key>
@@ -403,7 +403,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>10e6</value>
+      <value>6e6</value>
     </param>
   </block>
   <block>
